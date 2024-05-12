@@ -1,8 +1,5 @@
 # TestDatasetModelSelector
 
-Certainly! Here's the revised README with the requested changes:
-
----
 
 # A.P. Moller - Maersk Product Forecasting
 
