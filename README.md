@@ -7,6 +7,10 @@
 
 This project aims to forecast the demand for a product provided by A.P. Moller - Maersk using machine learning and deep learning models. The dataset spans from July 2020 to May 2021 and includes various features related to the product.
 
+Certainly! Here's the updated workflow section with the addition you requested:
+
+---
+
 ## Workflow
 
 ### TrainData_Preprocessing
@@ -28,6 +32,10 @@ This project aims to forecast the demand for a product provided by A.P. Moller -
 
 - This notebook focuses on applying the Long Short-Term Memory (LSTM) model as a deep learning approach for forecasting.
 - The LSTM model is trained for 300 epochs using the updated training data.
+
+### SakshamJain_AIML_Assessment
+
+- Alternatively, you can directly run the **SakshamJain_AIML_Assessment.ipynb** file where all the notebooks are merged, providing a comprehensive view of the entire project workflow.
 
 ## Repository Structure
 
