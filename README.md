@@ -54,8 +54,11 @@ To replicate the project's results and analyses, follow these steps:
 
 ## Contact
 
-For any questions or inquiries, please contact [Saksham Jain](https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/in/saksham-jain-59b2241a4/)).
+Got it! Here's the updated contact section:
 
 ---
 
-Let me know if you need any further adjustments!
+## Contact
+
+For any questions or inquiries, please contact [Saksham Jain](https://www.linkedin.com/in/saksham-jain-59b2241a4/).
+
